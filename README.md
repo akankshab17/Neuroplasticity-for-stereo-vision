@@ -12,6 +12,9 @@ Stereo vision (stereopsis) depends on the brain's ability to extract depth from 
 - **Self-Supervised Stereo Learning** — learns disparity and depth representations from unlabeled stereo image pairs without ground-truth depth annotations
 
 ---
+
+## Poster
+
 <img width="1060" height="795" alt="poster" src="https://github.com/user-attachments/assets/b514db81-15fe-40d9-96c2-0c310595df20" />
 
 ---
