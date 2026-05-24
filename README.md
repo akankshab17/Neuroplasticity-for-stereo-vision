@@ -6,10 +6,13 @@ A Python-based research project exploring neuroplasticity-inspired deep learning
 
 ## Overview
 
-Stereo vision (stereopsis) depends on the brain's ability to extract depth from the horizontal disparity between the two eyes' images. When this system is impaired — due to amblyopia, strabismus, or other conditions — neuroplasticity allows the visual cortex to partially reorganize and recover. This project models that recovery computationally through two complementary deep learning pipelines:
+Stereo vision (stereopsis) depends on the brain's ability to extract depth from the horizontal disparity between the two eyes' images. When this system is impaired — due to amblyopia, strabismus, or other conditions — neuroplasticity allows the visual cortex to partially reorganize and recover. This project models recovery computationally through two complementary deep learning pipelines:
 
 - **Diffusion-based Restoration** — uses generative diffusion models to synthesize and restore high-quality stereo image pairs from degraded inputs
 - **Self-Supervised Stereo Learning** — learns disparity and depth representations from unlabeled stereo image pairs without ground-truth depth annotations
+
+---
+<img width="1060" height="795" alt="poster" src="https://github.com/user-attachments/assets/b514db81-15fe-40d9-96c2-0c310595df20" />
 
 ---
 
